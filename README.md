@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is **Saksham Singh.**
 A final year student pursuing BCA.
-I am currently learning JAVA, GIT & GITHUB.
+I am currently doing #100daysofcode of The Odin Project.
 I look forward to contributing to open source and helping other developers and projects to the best of my abilities.
 **If you have any tips or suggestions, I would be glad to have you do so.** 
 
