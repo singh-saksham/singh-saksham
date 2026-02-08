@@ -1,5 +1,5 @@
 # 💫 About Me:
-I like to code. But not errors
+I write ugly errors
 
 
 ## 🌐 Socials:
